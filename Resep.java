@@ -3,5 +3,6 @@ public class Resep{
         System.out.println("Resep Krabby Patty");
         System.out.println("1. Bawang");
         System.out.println("2, Ketimun");
+        System.out.println("3. Tomat");
     }
 }
